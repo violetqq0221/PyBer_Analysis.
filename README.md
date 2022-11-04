@@ -16,14 +16,13 @@ Rural has the least total rides, total drivers and the total fares. The most exp
 * **Suburban**:
 Compared with rural and urban areas, all the metrix are in the middle. 
 
-The images of graphe is [here]
+The result is present in figure 1.
+![Figure 1](https://github.com/violetqq0221/pyber_analysis/blob/bad826f066cb4972de9bca7f8591a195771ff025/analysis/PyBer_fare_summary.PNG)
 
 * Urban rides has the most total fares amount between Jan,1 2019 to April,29 2019. Rural rides has the least total fare amount. This is intuitive result, based on the summary of DateFrame, urban has the most total rides, total drivers and total fares, and rural the least result of these three metrix.  
     
     
 ## Summary
-* According the Datframe and the trend of line chart. The Urban cities generate the most revenue for the company. The company should be continue the same strategy to bring the most profit for the company. 
-* According the datframe and the trend of line chart. The rural cities generate the least revunefor the company. However, the average of fare per ride is the highest for rural type. If company can follow the most profit city type_urban city type data, can focous on researching between ridership and amount of drivers, to see if possible to increase the ridership, should be able to increase the revenue for rural type cities.
-* It should collect more data point at least observe a year's data trend before making further major decision. There are few period of timeframe on each city type, higher fare revenue than other months.We can research more behind reason which bring higher ridership demand on these timeperiods.If the cause reasons are repeable for each year, can make the proposal to hire partime driver to meet the tempary high demand ridership. It can bring more revenue on special occactions. 
-
-
+* According to the dataframe and the trend of the line chart, the urban cities generate the most revenue for the ride-sharing company. The company should continue the same strategy to bring the most profit. 
+* The rural cities generate the least revenue for the company. However, the average of fare per ride is the highest for rural type. If the company can spend more effort to grow the business in the rural areas to see if it is possible to increase the ridership, it should then be able to increase the revenue for rural cities as well.
+* It should collect more data points to observe at least one year of data trend before making future major decisions. There are a few periods of time for each city type where fare revenue is higher than other time periods. We can research more on the reason why these time periods bring higher ridership demand. If the reasons are found to be repeatable for each year, they can make the proposal to hire more part-time drivers to meet the temporary high demand. It can bring more revenue on these special occasions.
